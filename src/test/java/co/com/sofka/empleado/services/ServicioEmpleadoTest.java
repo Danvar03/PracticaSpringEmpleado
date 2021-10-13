@@ -1,4 +1,4 @@
-package co.com.sofka.empleado;
+package co.com.sofka.empleado.services;
 
 import co.com.sofka.empleado.collections.Empleado;
 import co.com.sofka.empleado.dtos.EmpleadoDTO;

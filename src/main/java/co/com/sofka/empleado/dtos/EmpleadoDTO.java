@@ -1,4 +1,4 @@
-package co.com.sofka.empleado.DTOs;
+package co.com.sofka.empleado.dtos;
 
 public class EmpleadoDTO {
     private String id;
